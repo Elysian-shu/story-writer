@@ -1,0 +1,12 @@
+{
+  "name": "story-writer",
+  "version": "0.1.0",
+  "description": "通用故事管理：作品设计、来源提案、写作合同、审读、定稿与跨会话恢复。",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Story Writer",
+    "shortDescription": "让设定、人物、伏笔和写作进度持续可查",
+    "category": "Writing",
+    "defaultPrompt": ["为我的故事建立写作管理系统", "核对当前书仓并准备下一章", "审查情节因果、信息披露和人物一致性"]
+  }
+}

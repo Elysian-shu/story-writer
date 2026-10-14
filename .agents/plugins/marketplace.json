@@ -1,0 +1,5 @@
+{
+  "name": "story-writer-local",
+  "interface": {"displayName": "Story Writer 故事写作管理"},
+  "plugins": [{"name": "story-writer", "source": {"source": "local", "path": "./plugins/story-writer"}}]
+}

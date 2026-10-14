@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+books/
+书仓/
+原始资料/
+工作区/
+定稿/
+.故事/
+*.log
+.DS_Store
